@@ -8,3 +8,6 @@ https://helpwithcovid.com/
 
 3. Handbook of Covid-19 Prevention and Treatment in Hospitals ([pdf] alicdn.com)
 https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Treatment.pdf
+
+4 Do yourself mask instructions:
+https://diymask.site/
