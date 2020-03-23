@@ -13,3 +13,5 @@ https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Trea
 https://diymask.site/
 
 https://mustsharenews.com/cloth-face-mask/amp/
+
+https://www.youtube.com/watch?reload=9&v=LD1RtbiKFEc (video in Spanish)
