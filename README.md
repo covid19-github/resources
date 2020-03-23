@@ -16,3 +16,6 @@ https://diymask.site/
 https://mustsharenews.com/cloth-face-mask/amp/
 
 https://www.youtube.com/watch?reload=9&v=LD1RtbiKFEc (video in Spanish)
+
+5. 3D printed Protection face shield: 
+https://github.com/FAB619/Protection-Mask--COVID-19
