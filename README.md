@@ -19,3 +19,6 @@ https://video-intl.alicdn.com/Handbook%20of%20COVID-19%20Prevention%20and%20Trea
 
 5. 3D printed Protection face shield: 
 https://github.com/FAB619/Protection-Mask--COVID-19
+
+6. Github for makers working in different projects related to coronavirus:
+https://github.com/CoronavirusMakers
