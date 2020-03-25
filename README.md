@@ -22,3 +22,7 @@ https://github.com/FAB619/Protection-Mask--COVID-19
 
 6. Github for makers working in different projects related to coronavirus:
 https://github.com/CoronavirusMakers
+
+7. Mechanical Ventilator Milano (MVM): A Novel Mechanical Ventilator Designed for Mass Scale Production in Response to the COVID-19 Pandemics. 
+https://arxiv.org/abs/2003.10405
+
