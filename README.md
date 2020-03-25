@@ -27,8 +27,8 @@ https://github.com/CoronavirusMakers
 https://arxiv.org/abs/2003.10405
 
 8.Automated manual AMBU type ventilator open hardware prototype: 
-    https://www.oxygen.protofy.xyz/
+   https://www.oxygen.protofy.xyz/
 
-    https://www.youtube.com/watch?v=0386hOgcQTA
+   https://www.youtube.com/watch?v=0386hOgcQTA
 
-    https://github.com/ProtofyTeam/OxyGEN
+   https://github.com/ProtofyTeam/OxyGEN
